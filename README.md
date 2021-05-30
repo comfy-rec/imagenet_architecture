@@ -1,5 +1,5 @@
-# imagenet_architecture
+# imagenet architecture
 
-model
+imagenet model
 
-alexnet, vggnet, densenet
+alexnet, vggnet, densenet, resnet
